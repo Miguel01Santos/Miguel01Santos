@@ -1,4 +1,4 @@
-# Miguel Proveza Desenvolvedor Junior !
+# Desenvolvedor Junior !
 
 <li>Estudante de TI</li>
 <li>FreeLancer</li>
