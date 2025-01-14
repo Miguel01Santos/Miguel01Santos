@@ -1,9 +1,10 @@
 # Desenvolvedor Junior !
 
 <li>Estudante de TI</li>
-<li>FreeLancer</li>
-<li>Estudando Angular</li>
-<li>Estudando Java</li>
+<li>Desenvolvedor Full Stack</li>
+<li>Dev Angular</li>
+<li>Dev React</li>
+<li>Dev Python</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
