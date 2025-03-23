@@ -1,6 +1,6 @@
-# Desenvolvedor Junior !
+# Desenvolvedor de Software Full Stack !
 
-<li>Desenvolvedor Web</li>
+<li>Dev Web</li>
 <li>Dev Angular</li>
 <li>Dev React</li>
 <li>Dev node.js</li>
